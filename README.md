@@ -4,4 +4,4 @@ ET のアプリの案内・サポートページ（GitHub Pages）。
 
 - `/workoutlog/` — WorkOutLog のサポートページ（App Store の「サポート URL」）
 - `/workoutlog/privacy.html` — WorkOutLog のプライバシーポリシー
-- `/app-ads.txt` — AdMob の確認用。AdMob でパブリッシャー ID が発行されたら追加する
+- `/app-ads.txt` — 広告（AdMob）を入れるときに追加する。現在は広告なし
